@@ -117,7 +117,7 @@ npm run start
 ### RECORRIDO Y FUNCIONALIDAD
 -**Pagina Lobby.** `http://localhost:3000`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina Lobby.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina_Lobby.png?raw=true)
 >Success.
 
 -**Pagina Register.** `http://localhost:3000/signup`

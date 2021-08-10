@@ -159,3 +159,8 @@ npm run start
 
 ![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Search%20Result.png?raw=true)
 >Success.
+
+-**Likes a Publicaciones.**
+
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Likes.png?raw=true)
+>Success.

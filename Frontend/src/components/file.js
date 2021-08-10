@@ -5,12 +5,9 @@ import API, { apicheckFile } from "../functions/consultasAPI";
 //   apicheckFile(id).then((data) => {
 //     console.log(id)
 //     if (data.success===false){
-//       console.log("pingaasd")
 //       return (<div>
 //       </div>)
 //     } else {
-      
-//       console.log("pinga")
 //       return (<div><iframe src={`${API}/p/file/${id}`} width="92%" height="300"></iframe></div>)
 //     }
 //   })

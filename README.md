@@ -57,7 +57,7 @@ Node.js es un entorno de ejecución de JavaScript, una plataforma para ejecutar 
 |`cors`    |    2.8.5    |  Compatibilidad  |
 | `dotenv` |  9.0.2      |  Variables de Entorno |
 | `express` |  4.17.1      |  Servidor  |
-| ``formidable`  |  1.2.2    |  Tratamiento de Datos  |
+| `formidable`  |  1.2.2    |  Tratamiento de Datos  |
 | `jsonwebtoken` |    8.5.1    |  Seguridad |
 | `mongoose` |   5.12.9     |  Base de Datos  |
 | `morgan` |   1.10.0     |  Desarrollo |

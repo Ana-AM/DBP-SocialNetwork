@@ -117,45 +117,45 @@ npm run start
 ### RECORRIDO Y FUNCIONALIDAD
 -**Pagina Lobby.** `http://localhost:3000`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina_Lobby.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina%20Lobby.png?raw=true)
 >Success.
 
 -**Pagina Register.** `http://localhost:3000/signup`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina Register.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Pagina%20Register.png?raw=true)
 >Success.
 
 -**Pagina Principal.** `http://localhost:3000/main/`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Paginal Principal.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Paginal%20Principal.png?raw=true)
 >Success.
 
 -**Pagina Perfil.** `http://localhost:3000/profile/`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Paginal Perfil.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Paginal%20Perfil.png?raw=true)
 >Success.
 
 -**Pagina Editar Perfil.** `http://localhost:3000/profile/edit`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Editar Perfil.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Editar%20Perfil.png?raw=true)
 >Success.
 
 -**Actualización Perfil.**
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Cambios Perfil.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Cambios%20Perfil.png?raw=true)
 >Success.
 
 -**Pagina Crear Publicación.** `http://localhost:3000/profile/newpost`
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Create Post.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Create%20Post.png?raw=true)
 >Success.
 
 -**Publicación Creada.**
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Created Post.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Created%20Post.png?raw=true)
 >Success.
 
 -**Busqueda de Publicaciones.**
 
-![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Search Result.png?raw=true)
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/Search%20Result.png?raw=true)
 >Success.

@@ -35,6 +35,21 @@ export const apigetPublicationsByUser = (id) => {
     })
 }
 
+export const apicheckFile = (id) => {
+  return fetch(`${API}/p/file/check/${id}`, {
+    method: "get",
+    headers: {
+      "Content-Type": "application/json"
+    },
+  })
+    .then(response => {
+      return response.json()
+    })
+    .catch(err => {
+      console.log(err);
+    })
+}
+
 export const apigetDataFollow = (id, Userid) => {
   return fetch(`${API}/u/follow/check`, {
     method: "post",
@@ -51,13 +66,13 @@ export const apigetDataFollow = (id, Userid) => {
     })
 }
 
-
-export const apicheckFile = (id) => {
-  return fetch(`${API}/p/file/check/${id}`, {
-    method: "get",
+export const apipostStatusFollow = (id, Userid) => {
+  return fetch(`${API}/u/follow/modify`, {
+    method: "post",
     headers: {
       "Content-Type": "application/json"
     },
+    body: JSON.stringify({id,Userid})
   })
     .then(response => {
       return response.json()
@@ -67,13 +82,45 @@ export const apicheckFile = (id) => {
     })
 }
 
-export const apipostStatusFollow = (id, Userid) => {
-  return fetch(`${API}/u/follow/modify`, {
+export const apigetLikes = (Postid) => {
+  return fetch(`${API}/p/likes`, {
     method: "post",
     headers: {
       "Content-Type": "application/json"
     },
-    body: JSON.stringify({id,Userid})
+    body: JSON.stringify({Postid})
+  })
+    .then(response => {
+      return response.json()
+    })
+    .catch(err => {
+      console.log(err);
+    })
+}
+
+export const apigetDataLike = (id, Postid) => {
+  return fetch(`${API}/p/like/check`, {
+    method: "post",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({id,Postid})
+  })
+    .then(response => {
+      return response.json()
+    })
+    .catch(err => {
+      console.log(err);
+    })
+}
+
+export const apipostStatusLike = (id, Postid) => {
+  return fetch(`${API}/p/like/modify`, {
+    method: "post",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({id,Postid})
   })
     .then(response => {
       return response.json()

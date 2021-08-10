@@ -25,10 +25,14 @@ const Home = (req, res) => {
         <Col className="ms-5 mt-5" className="section-description">
           <h1 className="section-title">Descripción</h1>
           <p className="parraf">
-            Esta Red Social fue diseñada con el objetivo de instruir conceptos
-            fundamentales relacionados a la metodología de trabajo agil. Fue
-            desarrollado por un grupo de cinco estudiantes para la carrera
-            profesional de Ciencia de la Computación.{" "}
+            Nuestro proyecto final es una Red Social que fue diseñada con el
+            objetivo de consolidar los conceptos reacionados con el curso
+            Desarrollo Basado En Plataformas. Somos un grupo conformado por
+            cinco estudiantes de la carrera Ciencia de la Computación. La Red
+            Social fue creada con el objetivo de facilitar la publicación de
+            articulos relacionados con nuestra carrera, con el fin de promover
+            la investigación y servir como red de información privada para los
+            alumnos de Ciencia de la Computación.{" "}
           </p>
 
           <p className="parraf">

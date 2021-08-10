@@ -79,7 +79,7 @@ Las propias consultas son también JSON, por lo que se programan fácilmente. Ol
 npm install
 ```
 #### INSTALACIÓN
-- Clone este repositorio con
+- Clone este repositorio con la linea de comando o descargue y descomprima la carpeta zip con el código del repositorio.
 ```shell 
 git clone https://github.com/JPostigo48/DBP-B-Social-Network-EPCC.git
 ```

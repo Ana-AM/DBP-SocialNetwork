@@ -23,7 +23,7 @@ El proyecto considera conceptos importantes de [Clean Arquitecture](http://xurxo
 Nos basamos en el estilo de arquitectura de software Model-View-Controller ([MVC](https://www.educative.io/blog/mvc-tutorial)), utilizamos tecnologías como [ReactJS](https://reactjs.org), [NodeJS](https://nodejs.org/) y [MongoDB](https://www.mongodb.com/es) para las partes del Frontend, Banckend y Base de Datos  respectivamente.
 
 ### TECNOLOGÍAS
-A continuación damos un breve resumen de las tecnologías utilizadas.
+Las tecnologías utilizadas son las que componen el stack [MERN](https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/) como MongoDB, Express, ReactJS y NodeJS. 
 #### MVC
 Model/View/Controller es un patrón de diseño de software predecible que se puede usar en muchos marcos con muchos lenguajes de programación, comúnmente Python, Ruby, PHP, JavaScript y más. Se utiliza popularmente para diseñar aplicaciones web y aplicaciones móviles.
 

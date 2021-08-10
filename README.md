@@ -83,7 +83,7 @@ Clone este repositorio con la linea de comando o descargue y descomprima la carp
 ```shell 
 git clone https://github.com/JPostigo48/DBP-B-Social-Network-EPCC.git
 ```
-##### Inicialización Backend
+#### Inicialización Backend
 - Abrir una consola cmd en la carpeta base del proyecto.
 - Ejecute las lineas de comando
 ```shell 
@@ -96,7 +96,11 @@ npm install
 ```shell 
 npm run dev
 ```
-##### Inicialización Frontend
+- El resultado deberia ser un mensaje confirmando la conección de a la base de datos.
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/DBok.png?raw=true)
+>Success.
+
+#### Inicialización Frontend
 - Abrir una consola cmd en la carpeta base del proyecto.
 - Ejecute las lineas de comando
 ```shell 
@@ -109,3 +113,9 @@ npm install
 ```shell 
 npm run start
 ```
+- Automaticamente se abrira en su navegador la pagina de inicio de la pagina web. `http://localhost:3000`
+
+![](https://github.com/JPostigo48/DBP-B-Social-Network-EPCC/blob/main/Presentacion/home.png?raw=true)
+>Success.
+
+### RECORRIDO Y FUNCIONALIDAD

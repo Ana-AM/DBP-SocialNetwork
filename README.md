@@ -70,16 +70,12 @@ Lenguaje de consulta rico y expresivo que permite filtrar y ordenar por cualquie
 Admite agregaciones y otros casos de uso modernos, como búsqueda de gráficos o texto, y búsqueda basada en información geoespacial.
 Las propias consultas son también JSON, por lo que se programan fácilmente. Olvídese de concatenar cadenas para generar consultas SQL de forma dinámica.
 ### MANUAL DE USUARIO
-
 #### REQUERIMIENTOS
 
 - [Node.js](https://nodejs.org/en/) 14+
-
-```shell
-npm install
-```
+- [MongoDB](https://www.mongodb.com/) 4+
 #### INSTALACIÓN
-Clone este repositorio con la linea de comando o descargue y descomprima la carpeta zip con el código del repositorio.
+ Clone este repositorio con la linea de comando o descargue y descomprima la carpeta zip con el código del repositorio.
 ```shell 
 git clone https://github.com/JPostigo48/DBP-B-Social-Network-EPCC.git
 ```

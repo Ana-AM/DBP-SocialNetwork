@@ -1,0 +1,104 @@
+.container-all{
+  position: fixed;
+  right: 5vw;
+  top: 17vh;
+}
+
+
+.trending-card-container {
+  max-width: 320px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  background: #658698;
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.38;
+  padding-left: 4px;
+}
+
+.person-card-container {
+    max-width: 320px;
+    max-height: 40px;
+    margin: 0 auto;
+    padding-top: 5px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.38;
+  }
+
+.trending-card-title {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight:900;
+    font-size: 19px;
+    padding-top: 16px;
+    line-height: 34px;
+    color: #ffffff;
+}
+
+.trending-card-head {
+  width: 490px;
+  height: 28px;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+  border-bottom: #240000;
+}
+
+
+
+.person-card-img {
+  width: 40px;
+  height: 38px;
+  border-radius: 50%;
+  margin-right: 3px;
+  margin-left: 2px;
+}
+
+.person-card-body{
+  border-bottom: #ffffff;
+}
+
+.person-card-name {
+  font-size: 16px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.person-card-name:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+.person-card-follow {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 2px;
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #37b6d6;       
+    border-radius: 10px;
+    border: 1px solid #37b6d6;
+}
+
+.person-card-more {
+    padding-right: 10px;
+    padding-left: 30px;
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+    color: #2b2b2b;
+    text-align: center;  
+}
+
+hr{
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0.6rem;
+    color: black;
+}

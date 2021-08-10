@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+.box {
+  position: fixed;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 20px;
+  margin-bottom: 50px;
+  background: #fafeff;
+  
+  border-bottom: 1px solid rgba(82, 82, 82, 0.247);
+}
+
+.yes{
+  width: 70vw;
+}
+
+.none{
+  width: 100vw;
+}
+
+.container-1 {
+  width: 300px;
+  padding-top: 10px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+.container-1 input#search {
+  width: 350px;
+  height: 40px;
+  background: #e1e1e1;
+  border: none;
+  font-family: "Nunito", sans-serif;
+  font-size: 10pt;
+  float: left;
+  color: #141414;
+  padding-left: 25px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 10px;
+  -webkit-transition: background 0.55s ease;
+  -moz-transition: background 0.55s ease;
+  -ms-transition: background 0.55s ease;
+  -o-transition: background 0.55s ease;
+  transition: background 0.55s ease;
+}
+
+.container-1 input#search::-webkit-input-placeholder {
+  color: #65737e;
+}
+
+.container-1 input#search:-moz-placeholder {
+  /* Firefox 18- */
+  color: #65737e;
+}
+
+.container-1 input#search::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #65737e;
+}
+
+.container-1 input#search:-ms-input-placeholder {
+  color: #65737e;
+}
+.container-1 .icon {
+  position: absolute;
+  top: 45%;
+  padding-left: 100px;
+  margin-top: 5px;
+  z-index: 1;
+  color: #ff0000;
+}
+.container-1 input#search:hover,
+.container-1 input#search:focus,
+.container-1 input#search:active {
+  outline: none;
+  background: #cedaff;
+  text-align: left;
+}
+
+.img-perfil {
+  position: relative;
+  right: 0px;
+  margin: auto;
+  margin-top: 7px;
+  margin-left: 15px;
+  padding: 4px;
+  width: 50px;
+}
+
+.img-logout {
+  margin: auto;
+  margin-top: 7px;
+  margin-left: 15px;
+  padding: 4px;
+  width: 43px;
+}
+
+.img-search {
+  margin: auto;
+  margin-top: 2px;
+  margin-left: 5px;
+  padding: 4px;
+  width: 35px;
+}

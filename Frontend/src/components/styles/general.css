@@ -1,0 +1,13 @@
+.ms-10 {
+  margin-left: 40rem;
+}
+
+.center {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+.alert-edit{
+  padding: 0.5rem 0.5rem;
+}

@@ -16,7 +16,7 @@ Nos basamos en el estilo de arquitectura de software Model-View-Controller ([MVC
 
 ### TECNOLOGÍAS
 A continuación damos un breve resumen de las tecnologías utilizadas.
-#### MVC
+#### MODEL-VIEW-CONTROLLER
 Model View Controller es un patrón de diseño de software predecible que se puede usar en muchos marcos con muchos lenguajes de programación, comúnmente Python, Ruby, PHP, JavaScript y más. Se utiliza popularmente para diseñar aplicaciones web y aplicaciones móviles.
 
 Los componentes de la arquitectura del patrón MVC están diseñados para manejar diferentes aspectos de una aplicación en desarrollo. El patrón de diseño MVC sirve para separar la capa de presentación de la lógica empresarial.

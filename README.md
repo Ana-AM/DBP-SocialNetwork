@@ -83,7 +83,7 @@ npm install
 ```shell 
 git clone https://github.com/JPostigo48/DBP-B-Social-Network-EPCC.git
 ```
-+ #####Inicialización Backend
+#####Inicialización Backend
     + Abrir una consola cmd en la carpeta base del proyecto.
     + Ejecute las lineas de comando
 ```shell 
